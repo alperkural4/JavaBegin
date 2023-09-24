@@ -1,0 +1,12 @@
+print("Naam:");
+println(" Alper");
+print("Achternaam:");
+println(" Kural");
+print("Woonsplaats:");
+println(" Lelystad");
+print("Afkomst:");
+println(" Turks");
+print("Nationaliteit:");
+println(" Nederlands");
+print("Reden voor kiezen ICT opleiding:");
+println(" Software develepmont is een een skill wat erg future proof is, er is veel vraag naar, omdat in het heden de werekd zich digitaliseerd en daar heb je ICt'ers voor nodig, ook is het een erg uitdagende opleiding waarmee ik mezelf wil testen");
